@@ -181,6 +181,7 @@ namespace yCalc
             this.btSuma.TabIndex = 11;
             this.btSuma.Text = "+";
             this.btSuma.UseVisualStyleBackColor = true;
+            this.btSuma.Click += new System.EventHandler(this.btSuma_Click);
             // 
             // btPunto
             // 
@@ -202,6 +203,7 @@ namespace yCalc
             this.btResta.TabIndex = 13;
             this.btResta.Text = "-";
             this.btResta.UseVisualStyleBackColor = true;
+            this.btResta.Click += new System.EventHandler(this.btResta_Click);
             // 
             // btMulti
             // 
@@ -212,6 +214,7 @@ namespace yCalc
             this.btMulti.TabIndex = 14;
             this.btMulti.Text = "x";
             this.btMulti.UseVisualStyleBackColor = true;
+            this.btMulti.Click += new System.EventHandler(this.btMulti_Click);
             // 
             // btDiv
             // 
@@ -222,6 +225,7 @@ namespace yCalc
             this.btDiv.TabIndex = 15;
             this.btDiv.Text = "÷";
             this.btDiv.UseVisualStyleBackColor = true;
+            this.btDiv.Click += new System.EventHandler(this.btDiv_Click);
             // 
             // btResultado
             // 
@@ -232,6 +236,7 @@ namespace yCalc
             this.btResultado.TabIndex = 16;
             this.btResultado.Text = "=";
             this.btResultado.UseVisualStyleBackColor = true;
+            this.btResultado.Click += new System.EventHandler(this.btResultado_Click);
             // 
             // btDel
             // 

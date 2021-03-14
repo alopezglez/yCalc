@@ -150,6 +150,34 @@ namespace yCalc
             addNumero(1);
         }
 
+        private void hacerOperacion(string operador)
+        {
+
+            switch (operador)
+            {
+                case "+":
+
+                    break;
+
+                case "-":
+
+                    break;
+
+                case "/":
+
+                    break;
+
+                case "*":
+
+                    break;
+
+                case "=":
+
+                    break;
+
+            }
+        }
+
         private void addNumero(int numero)
         {
             //Añade números a la cifra en pantalla pero como máximo 12 incluyendo decimales
@@ -257,6 +285,31 @@ namespace yCalc
         private void btPunto_Click(object sender, EventArgs e)
         {
             addNumero(10); // Paso un 10 indicando internamente que se ha pulsado una coma
+        }
+
+        private void btSuma_Click(object sender, EventArgs e)
+        {
+            hacerOperacion("+");
+        }
+
+        private void btResta_Click(object sender, EventArgs e)
+        {
+            hacerOperacion("-");
+        }
+
+        private void btMulti_Click(object sender, EventArgs e)
+        {
+            hacerOperacion("*");
+        }
+
+        private void btDiv_Click(object sender, EventArgs e)
+        {
+            hacerOperacion("/");
+        }
+
+        private void btResultado_Click(object sender, EventArgs e)
+        {
+            hacerOperacion("=");
         }
     }
 }
