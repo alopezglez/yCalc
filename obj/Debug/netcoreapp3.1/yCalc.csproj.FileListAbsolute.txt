@@ -1,0 +1,15 @@
+C:\Users\alope\Desktop\yCards\yCalc\bin\Debug\netcoreapp3.1\yCalc.exe
+C:\Users\alope\Desktop\yCards\yCalc\bin\Debug\netcoreapp3.1\yCalc.deps.json
+C:\Users\alope\Desktop\yCards\yCalc\bin\Debug\netcoreapp3.1\yCalc.runtimeconfig.json
+C:\Users\alope\Desktop\yCards\yCalc\bin\Debug\netcoreapp3.1\yCalc.runtimeconfig.dev.json
+C:\Users\alope\Desktop\yCards\yCalc\bin\Debug\netcoreapp3.1\yCalc.dll
+C:\Users\alope\Desktop\yCards\yCalc\bin\Debug\netcoreapp3.1\yCalc.pdb
+C:\Users\alope\Desktop\yCards\yCalc\obj\Debug\netcoreapp3.1\yCalc.csprojAssemblyReference.cache
+C:\Users\alope\Desktop\yCards\yCalc\obj\Debug\netcoreapp3.1\yCalc.Form1.resources
+C:\Users\alope\Desktop\yCards\yCalc\obj\Debug\netcoreapp3.1\yCalc.csproj.GenerateResource.cache
+C:\Users\alope\Desktop\yCards\yCalc\obj\Debug\netcoreapp3.1\yCalc.AssemblyInfoInputs.cache
+C:\Users\alope\Desktop\yCards\yCalc\obj\Debug\netcoreapp3.1\yCalc.AssemblyInfo.cs
+C:\Users\alope\Desktop\yCards\yCalc\obj\Debug\netcoreapp3.1\yCalc.csproj.CoreCompileInputs.cache
+C:\Users\alope\Desktop\yCards\yCalc\obj\Debug\netcoreapp3.1\yCalc.dll
+C:\Users\alope\Desktop\yCards\yCalc\obj\Debug\netcoreapp3.1\yCalc.pdb
+C:\Users\alope\Desktop\yCards\yCalc\obj\Debug\netcoreapp3.1\yCalc.genruntimeconfig.cache
